@@ -6,8 +6,3 @@ to start front :
     
      npm run dev
 
-
-to start back:
-
-    source ../../../env/bin/activate #activate the env
-    python manage.py runserver 192.168.200.51:8870
